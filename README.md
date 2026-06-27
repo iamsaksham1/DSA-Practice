@@ -78,5 +78,6 @@ Solutions are added regularly as I progress through LeetCode.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/iamsaksham1/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
