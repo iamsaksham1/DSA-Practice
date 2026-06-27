@@ -57,6 +57,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
