@@ -51,6 +51,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -62,6 +63,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
@@ -117,4 +119,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
