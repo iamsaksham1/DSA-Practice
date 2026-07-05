@@ -56,6 +56,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0033-search-in-rotated-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamsaksham1/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsaksham1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -102,6 +104,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
