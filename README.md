@@ -159,4 +159,12 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
