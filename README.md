@@ -67,6 +67,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +91,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -113,6 +115,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -134,12 +137,14 @@ Solutions are added regularly as I progress through LeetCode.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
