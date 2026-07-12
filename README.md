@@ -96,6 +96,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iamsaksham1/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -130,6 +131,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iamsaksham1/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/iamsaksham1/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
@@ -182,4 +184,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iamsaksham1/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
