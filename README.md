@@ -71,6 +71,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/iamsaksham1/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -188,4 +189,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsaksham1/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/iamsaksham1/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
