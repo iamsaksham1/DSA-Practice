@@ -73,6 +73,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0162-find-peak-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/iamsaksham1/DSA-Practice/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/iamsaksham1/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsaksham1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/iamsaksham1/DSA-Practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
