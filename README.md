@@ -97,6 +97,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsaksham1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -189,6 +190,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -206,5 +208,6 @@ Solutions are added regularly as I progress through LeetCode.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
