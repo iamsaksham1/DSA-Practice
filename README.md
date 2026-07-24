@@ -52,6 +52,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -153,6 +154,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsaksham1/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/iamsaksham1/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/iamsaksham1/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -226,4 +228,8 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
