@@ -94,6 +94,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/iamsaksham1/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0013-roman-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/iamsaksham1/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/iamsaksham1/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -219,6 +221,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/iamsaksham1/DSA-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
