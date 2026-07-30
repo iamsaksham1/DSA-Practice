@@ -174,6 +174,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0383-ransom-note](https://github.com/iamsaksham1/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
