@@ -81,6 +81,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0383-ransom-note](https://github.com/iamsaksham1/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iamsaksham1/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Memoization
 |  |
 | ------- |
