@@ -128,6 +128,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0229-majority-element-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/iamsaksham1/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +209,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
