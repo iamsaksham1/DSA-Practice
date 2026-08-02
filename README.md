@@ -85,6 +85,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [3701-compute-alternating-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -281,4 +284,5 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
