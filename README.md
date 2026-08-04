@@ -66,6 +66,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0073-set-matrix-zeroes](https://github.com/iamsaksham1/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/iamsaksham1/DSA-Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsaksham1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0136-single-number) |
@@ -240,6 +241,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamsaksham1/DSA-Practice/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/iamsaksham1/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/iamsaksham1/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/iamsaksham1/DSA-Practice/tree/master/0191-number-of-1-bits) |
@@ -304,4 +306,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iamsaksham1/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
