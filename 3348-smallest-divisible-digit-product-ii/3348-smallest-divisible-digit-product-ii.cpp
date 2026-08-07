@@ -1,3 +1,4 @@
+// THIS IS A BRUTE FORCE SOLUTION
 class Solution {
  public:
   string smallestNumber(string num, long long t) {
