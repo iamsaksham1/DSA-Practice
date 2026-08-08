@@ -107,6 +107,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0345-reverse-vowels-of-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
@@ -225,6 +228,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
