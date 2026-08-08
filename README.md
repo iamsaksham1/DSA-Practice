@@ -267,6 +267,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -335,4 +336,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
