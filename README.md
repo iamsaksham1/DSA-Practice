@@ -87,6 +87,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0643-maximum-average-subarray-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3701-compute-alternating-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -263,6 +265,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -284,6 +287,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iamsaksham1/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -306,14 +310,17 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
