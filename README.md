@@ -97,6 +97,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/iamsaksham1/DSA-Practice/tree/master/0031-next-permutation) |
@@ -350,5 +351,6 @@ Solutions are added regularly as I progress through LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
