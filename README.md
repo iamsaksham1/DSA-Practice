@@ -103,6 +103,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0031-next-permutation](https://github.com/iamsaksham1/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/iamsaksham1/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
@@ -168,6 +169,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0018-4sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/iamsaksham1/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/iamsaksham1/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -221,6 +223,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/iamsaksham1/DSA-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/iamsaksham1/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/iamsaksham1/DSA-Practice/tree/master/0191-number-of-1-bits) |
@@ -352,5 +355,10 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
