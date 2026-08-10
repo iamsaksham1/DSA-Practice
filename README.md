@@ -106,6 +106,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -282,6 +283,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0050-powx-n](https://github.com/iamsaksham1/DSA-Practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -308,6 +310,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
