@@ -89,6 +89,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3701-compute-alternating-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -146,6 +147,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -180,6 +182,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## String
