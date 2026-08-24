@@ -92,6 +92,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/iamsaksham1/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/iamsaksham1/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamsaksham1/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamsaksham1/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -139,6 +140,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/iamsaksham1/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iamsaksham1/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -307,6 +309,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/iamsaksham1/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iamsaksham1/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iamsaksham1/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -338,6 +341,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -365,6 +369,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/iamsaksham1/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iamsaksham1/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iamsaksham1/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -373,6 +378,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/iamsaksham1/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/iamsaksham1/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -380,6 +386,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/iamsaksham1/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/iamsaksham1/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
