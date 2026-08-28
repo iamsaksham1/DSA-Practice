@@ -126,6 +126,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/iamsaksham1/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iamsaksham1/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/iamsaksham1/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -418,6 +420,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iamsaksham1/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/iamsaksham1/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
