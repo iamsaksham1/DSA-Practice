@@ -11,30 +11,24 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-
-        // Remove matching nodes from the beginning
-        while (head != nullptr && head->val == val) {
-            head = head->next;
+        // If node to remove is at head 
+        while( head!= nullptr && head->val == val){
+            head = head -> next;
         }
-
-        // If the list became empty
-        if (head == nullptr) {
+        if(head == nullptr){
             return nullptr;
         }
-
-        // Traverse the remaining list
-        ListNode* temp = head;
-
-        while (temp->next != nullptr) {
-
-            if (temp->next->val == val) {
+        // traversing the list using a temp node
+        struct ListNode* temp = head;
+        while(temp->next != nullptr){
+            if(temp->next->val == val){
+                // skip this node
                 temp->next = temp->next->next;
             }
-            else {
+            else{
                 temp = temp->next;
             }
         }
-
         return head;
     }
 };
