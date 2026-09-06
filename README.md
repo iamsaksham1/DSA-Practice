@@ -139,6 +139,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/iamsaksham1/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsaksham1/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/iamsaksham1/DSA-Practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -227,6 +228,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/iamsaksham1/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/iamsaksham1/DSA-Practice/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/iamsaksham1/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/iamsaksham1/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/iamsaksham1/DSA-Practice/tree/master/0242-valid-anagram) |
