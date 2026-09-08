@@ -102,6 +102,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamsaksham1/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/iamsaksham1/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iamsaksham1/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -177,6 +178,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamsaksham1/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/iamsaksham1/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iamsaksham1/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -305,6 +307,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0054-spiral-matrix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/iamsaksham1/DSA-Practice/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3701-compute-alternating-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
@@ -466,6 +469,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0876-middle-of-the-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamsaksham1/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -487,6 +491,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamsaksham1/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -495,4 +500,12 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
