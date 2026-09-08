@@ -343,6 +343,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamsaksham1/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/iamsaksham1/DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
