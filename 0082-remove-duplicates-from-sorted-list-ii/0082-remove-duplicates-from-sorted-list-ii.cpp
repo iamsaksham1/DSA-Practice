@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
+
+        // create a new dummy node
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
 
@@ -27,6 +29,8 @@ public:
                 }
                 prev->next = temp;
             }
+
+            // if dublicate not found , move the pointers forward
             else{
                 prev = temp;
                 temp = temp->next;
