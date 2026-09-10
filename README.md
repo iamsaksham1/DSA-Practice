@@ -125,6 +125,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0061-rotate-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/iamsaksham1/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamsaksham1/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -470,6 +471,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0061-rotate-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0206-reverse-linked-list) |
