@@ -122,6 +122,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/iamsaksham1/DSA-Practice/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/iamsaksham1/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/iamsaksham1/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
@@ -464,6 +465,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/iamsaksham1/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
