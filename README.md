@@ -437,6 +437,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamsaksham1/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/iamsaksham1/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -513,4 +514,12 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamsaksham1/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamsaksham1/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
