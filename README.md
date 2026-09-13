@@ -86,6 +86,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/iamsaksham1/DSA-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -311,6 +312,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0073-set-matrix-zeroes](https://github.com/iamsaksham1/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/iamsaksham1/DSA-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/iamsaksham1/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
