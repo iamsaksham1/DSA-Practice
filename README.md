@@ -101,6 +101,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamsaksham1/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iamsaksham1/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iamsaksham1/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -159,6 +160,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [1563-stone-game-v](https://github.com/iamsaksham1/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsaksham1/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iamsaksham1/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamsaksham1/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iamsaksham1/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iamsaksham1/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
