@@ -86,6 +86,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/iamsaksham1/DSA-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -184,6 +185,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamsaksham1/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -507,6 +509,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0328-odd-even-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/iamsaksham1/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamsaksham1/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
