@@ -85,6 +85,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/iamsaksham1/DSA-Practice/tree/master/0835-image-overlap) |
@@ -187,6 +188,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
 | [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamsaksham1/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -513,6 +515,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0237-delete-node-in-a-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/iamsaksham1/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -579,4 +582,12 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
