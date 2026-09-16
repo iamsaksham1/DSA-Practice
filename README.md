@@ -90,6 +90,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0835-image-overlap](https://github.com/iamsaksham1/DSA-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -426,6 +427,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0143-reorder-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -514,6 +516,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0725-split-linked-list-in-parts](https://github.com/iamsaksham1/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamsaksham1/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -572,4 +575,8 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/iamsaksham1/DSA-Practice/tree/master/0836-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
