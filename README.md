@@ -521,6 +521,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0876-middle-of-the-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/iamsaksham1/DSA-Practice/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamsaksham1/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
