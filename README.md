@@ -194,6 +194,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamsaksham1/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +243,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +270,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamsaksham1/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamsaksham1/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -312,6 +315,7 @@ Solutions are added regularly as I progress through LeetCode.
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iamsaksham1/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iamsaksham1/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
