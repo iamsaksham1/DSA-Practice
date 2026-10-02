@@ -157,6 +157,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/iamsaksham1/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -269,6 +270,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0013-roman-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/iamsaksham1/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/iamsaksham1/DSA-Practice/tree/master/0067-add-binary) |
@@ -505,6 +507,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/iamsaksham1/DSA-Practice/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -639,6 +642,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
