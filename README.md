@@ -166,6 +166,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0198-house-robber](https://github.com/iamsaksham1/DSA-Practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -286,6 +287,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0383-ransom-note](https://github.com/iamsaksham1/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -337,6 +339,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/iamsaksham1/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/iamsaksham1/DSA-Practice/tree/master/1927-sum-game) |
@@ -470,6 +473,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0143-reorder-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -647,6 +651,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0020-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
