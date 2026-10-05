@@ -288,6 +288,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -474,6 +475,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -652,6 +654,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamsaksham1/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
