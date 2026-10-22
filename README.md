@@ -129,6 +129,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamsaksham1/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/iamsaksham1/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/iamsaksham1/DSA-Practice/tree/master/0018-4sum) |
@@ -158,6 +159,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamsaksham1/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/iamsaksham1/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -272,6 +274,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsaksham1/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/iamsaksham1/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/iamsaksham1/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/iamsaksham1/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0020-valid-parentheses) |
@@ -666,4 +669,8 @@ Solutions are added regularly as I progress through LeetCode.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/iamsaksham1/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamsaksham1/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
