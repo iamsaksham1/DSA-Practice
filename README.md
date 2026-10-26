@@ -482,6 +482,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0020-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/iamsaksham1/DSA-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -655,6 +656,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/iamsaksham1/DSA-Practice/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
