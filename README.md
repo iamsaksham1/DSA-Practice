@@ -83,6 +83,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
@@ -203,6 +204,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0383-ransom-note](https://github.com/iamsaksham1/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/iamsaksham1/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/iamsaksham1/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/iamsaksham1/DSA-Practice/tree/master/0705-design-hashset) |
 | [0817-linked-list-components](https://github.com/iamsaksham1/DSA-Practice/tree/master/0817-linked-list-components) |
@@ -482,6 +484,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0143-reorder-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/iamsaksham1/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamsaksham1/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -647,6 +650,7 @@ Solutions are added regularly as I progress through LeetCode.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
