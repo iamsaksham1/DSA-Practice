@@ -82,6 +82,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0349-intersection-of-two-arrays](https://github.com/iamsaksham1/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/iamsaksham1/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -409,6 +410,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0070-climbing-stairs](https://github.com/iamsaksham1/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iamsaksham1/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/iamsaksham1/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamsaksham1/DSA-Practice/tree/master/0509-fibonacci-number) |
