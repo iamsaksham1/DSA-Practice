@@ -498,6 +498,7 @@ Solutions are added regularly as I progress through LeetCode.
 | [0032-longest-valid-parentheses](https://github.com/iamsaksham1/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/iamsaksham1/DSA-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/iamsaksham1/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamsaksham1/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
@@ -555,6 +556,7 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamsaksham1/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/iamsaksham1/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -655,11 +657,13 @@ Solutions are added regularly as I progress through LeetCode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamsaksham1/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/iamsaksham1/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamsaksham1/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
